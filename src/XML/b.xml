@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book sn="001">
+    <name>java</name>
+    <peric>49.59</peric>
+    </book>
+    <book sn="002">
+    <name>java.web</name>
+    <peric>
+        
+        75</peric>
+    </book>
+</books>
